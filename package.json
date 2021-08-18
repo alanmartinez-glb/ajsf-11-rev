@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "ajsf11-rev",
   "version": "11.0.0",
   "author": "https://github.com/hamzahamidi/Angular6-json-schema-form/graphs/contributors",
   "description": "Angular JSON Schema Form builder Demo",
@@ -54,7 +54,7 @@
     "start": "ng serve",
     "start:prod": "ng serve --prod",
     "build:core": "ng build @ajsf/core --prod",
-    "postbuild:core": "cp README.md LICENSE  dist/@ajsf/core/",
+    "postbuild:core": "cp README.md LICENSE dist/@ajsf/core/",
     "build:bs3": "ng build @ajsf/bootstrap3 --prod",
     "postbuild:bs3": "cp projects/ajsf-bootstrap3/README.md LICENSE dist/@ajsf/bootstrap3/",
     "build:bs4": "ng build @ajsf/bootstrap4 --prod",
