@@ -1,5 +1,5 @@
 import {Injectable} from '@angular/core';
-import {Framework} from '@ajsf/core';
+import {Framework} from 'ajsf11-rev/core';
 import {
   FlexLayoutRootComponent,
   FlexLayoutSectionComponent,
